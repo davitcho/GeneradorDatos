@@ -1,0 +1,10 @@
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\bin\Debug\netcoreapp3.1\ManejoDatos.deps.json
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\bin\Debug\netcoreapp3.1\ManejoDatos.dll
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\bin\Debug\netcoreapp3.1\ManejoDatos.pdb
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.csproj.AssemblyReference.cache
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.AssemblyInfoInputs.cache
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.AssemblyInfo.cs
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.csproj.CoreCompileInputs.cache
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.dll
+C:\Users\drive\source\repos\GeneradorDatos\ManejoDatos\obj\Debug\netcoreapp3.1\ManejoDatos.pdb

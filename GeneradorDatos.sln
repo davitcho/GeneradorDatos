@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31710.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneradorsetDatos", "GeneradorsetDatos\GeneradorsetDatos.csproj", "{B3D22631-D7B9-4D03-8015-A91EA4C22664}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Librerias", "Librerias", "{5EFE697E-4F5C-4768-8B85-97E4DA8A99E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManejoDatos", "ManejoDatos\ManejoDatos.csproj", "{9604F27E-B8C8-4E27-ACCD-81D46763167F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D22631-D7B9-4D03-8015-A91EA4C22664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D22631-D7B9-4D03-8015-A91EA4C22664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D22631-D7B9-4D03-8015-A91EA4C22664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D22631-D7B9-4D03-8015-A91EA4C22664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9604F27E-B8C8-4E27-ACCD-81D46763167F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9604F27E-B8C8-4E27-ACCD-81D46763167F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9604F27E-B8C8-4E27-ACCD-81D46763167F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9604F27E-B8C8-4E27-ACCD-81D46763167F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9604F27E-B8C8-4E27-ACCD-81D46763167F} = {5EFE697E-4F5C-4768-8B85-97E4DA8A99E7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E062D9B-C051-45D6-A33C-691857B838CE}
+	EndGlobalSection
+EndGlobal

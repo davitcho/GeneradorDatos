@@ -1,0 +1,21 @@
+﻿<Window x:Class="GeneradorsetDatos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GeneradorsetDatos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="747">
+    <Grid Margin="0,0,10,0">
+        <Button x:Name="BntGen" Content="Generar" HorizontalAlignment="Left" Height="52" Margin="554,318,0,0" VerticalAlignment="Top" Width="110" Click="BntGen_Click"/>
+        <TextBox x:Name="TxtResultado" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"  AcceptsReturn="True" Width="447" Height="399"/>
+        <ComboBox x:Name="CmbTipo" HorizontalAlignment="Left" Height="34" Margin="484,48,0,0" VerticalAlignment="Top" Width="238" >
+            <ComboBoxItem Content="Boolean" Name="Bol"></ComboBoxItem>
+            <ComboBoxItem Content="Número" Name="Num"></ComboBoxItem>
+            <ComboBoxItem Content="Texto" Name="Let"></ComboBoxItem>
+            <ComboBoxItem Content="Alfanumerico" Name="Alf"></ComboBoxItem>
+            <ComboBoxItem Content="Fecha (DD-MM-YYYY)" Name="DISO"></ComboBoxItem>
+        </ComboBox>
+        <Button x:Name="BntLimpiar" Content="Limpiar" HorizontalAlignment="Left" Margin="554,248,0,0" VerticalAlignment="Top" Height="52" Width="110" Click="BntLimpiar_Click"/>
+    </Grid>
+</Window>
